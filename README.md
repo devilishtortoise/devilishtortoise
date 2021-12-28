@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @devilishtortoise
+- 👀 I’m interested in Linux , Python 
+- 🌱 I’m currently learning Python for now 
+- 📫 How to reach me @devilishtoroise [Telegram]
