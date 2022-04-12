@@ -1,4 +1,3 @@
 - 👋 Hi, I’m xenium
 - 👀 I’m interested in Linux , Python 
 - 🌱 I’m currently learning Python for now 
-- 📫 You can reach me @devilishtortoise [Telegram]
