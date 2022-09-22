@@ -1,3 +1,3 @@
 - 👋 Hi, I’m xenium
-- 👀 I’m interested in Linux , Python 
+- 👀 I’m interested in Linux , Pyhton , Philosophy , Yoga 
 - 🌱 I’m currently learning Python for now 
