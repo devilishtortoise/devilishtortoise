@@ -1,3 +1,2 @@
 - 👋 Hi, I’m xenium
-- 👀 I’m interested in Linux , Python , Go , Assembly 
-- 🌱 I’m currently learning Golang for now 
+- 🌱 I’m currently learning Rust for now 
